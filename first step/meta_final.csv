@@ -1,0 +1,210 @@
+SAMPID,SUBJID,SMTS,SMTSD,SMTSISCH,SMRIN,SMNABTCH,SMGEBTCH,SMNABTCHD,SMGEBTCHD,SMNABTCHT,SMGEBTCHT,AGE,SEX,DeathType,SEX_label
+GTEX-1117F-0626-SM-5N9CS,GTEX-1117F,Blood Vessel,Artery - Coronary,1243.0,6.9,BP-43956,LCSET-4904,09/25/2013,03/22/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,4,Female
+GTEX-1122O-0426-SM-5H12G,GTEX-1122O,Blood Vessel,Artery - Coronary,63.0,7.7,BP-43693,LCSET-4805,09/17/2013,02/27/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-117YX-1726-SM-5GZZS,GTEX-117YX,Blood Vessel,Artery - Coronary,115.0,7.9,BP-43507,LCSET-4805,09/12/2013,02/27/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-11DXX-0826-SM-5GZZP,GTEX-11DXX,Blood Vessel,Artery - Coronary,98.0,7.3,BP-43730,LCSET-4805,09/18/2013,02/27/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-11DXY-1126-SM-5987W,GTEX-11DXY,Blood Vessel,Artery - Coronary,908.0,6.5,BP-44577,LCSET-4417,10/11/2013,01/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,2,Male
+GTEX-11DXZ-0526-SM-5GU7J,GTEX-11DXZ,Blood Vessel,Artery - Coronary,276.0,6.4,BP-44261,LCSET-4803,10/03/2013,02/19/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-11EM3-0526-SM-5H12N,GTEX-11EM3,Blood Vessel,Artery - Coronary,138.0,7.1,BP-43783,LCSET-4805,09/19/2013,02/27/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,20-29,2,0,Female
+GTEX-11GS4-0626-SM-5A5LC,GTEX-11GS4,Blood Vessel,Artery - Coronary,803.0,6.0,BP-44512,LCSET-4423,10/10/2013,01/29/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,2,Male
+GTEX-11I78-1026-SM-5HL74,GTEX-11I78,Blood Vessel,Artery - Coronary,101.0,6.4,BP-43753,LCSET-4806,09/19/2013,03/02/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-11ONC-1126-SM-5GU6G,GTEX-11ONC,Blood Vessel,Artery - Coronary,681.0,6.1,BP-44312,LCSET-4803,10/04/2013,02/19/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,2,Male
+GTEX-11TT1-1526-SM-5EQKU,GTEX-11TT1,Blood Vessel,Artery - Coronary,93.0,8.2,BP-44312,LCSET-4790,10/04/2013,02/19/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,20-29,1,0,Male
+GTEX-11UD2-1126-SM-5EQM6,GTEX-11UD2,Blood Vessel,Artery - Coronary,906.0,7.3,BP-44312,LCSET-4790,10/04/2013,02/19/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,2,Male
+GTEX-11ZTS-1026-SM-5LU8O,GTEX-11ZTS,Blood Vessel,Artery - Coronary,645.0,6.5,BP-45139,LCSET-4899,10/28/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,2,Female
+GTEX-11ZTT-0426-SM-5EQLK,GTEX-11ZTT,Blood Vessel,Artery - Coronary,167.0,8.0,BP-44312,LCSET-4790,10/04/2013,02/19/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-11ZUS-0526-SM-59884,GTEX-11ZUS,Blood Vessel,Artery - Coronary,1356.0,6.8,BP-44577,LCSET-4417,10/11/2013,01/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,30-39,1,1,Male
+GTEX-12696-0526-SM-5EQ3Z,GTEX-12696,Blood Vessel,Artery - Coronary,525.0,6.2,BP-44399,LCSET-4767,10/07/2013,02/09/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,3,Male
+GTEX-12WSC-0926-SM-5EQ63,GTEX-12WSC,Blood Vessel,Artery - Coronary,845.0,7.2,BP-44399,"LCSET-4767,LCSET-5038,LCSET-5131",10/07/2013,03/08/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,2,Male
+GTEX-12WSD-1026-SM-5EQ42,GTEX-12WSD,Blood Vessel,Artery - Coronary,522.0,6.7,BP-44399,LCSET-4767,10/07/2013,02/09/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,2,Female
+GTEX-12WSE-1126-SM-7DUEH,GTEX-12WSE,Blood Vessel,Artery - Coronary,1394.0,6.8,BP-48119,LCSET-6442,01/09/2014,01/24/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,20-29,1,2,Male
+GTEX-12WSK-0726-SM-5LZUV,GTEX-12WSK,Blood Vessel,Artery - Coronary,155.0,8.1,BP-45139,LCSET-4900,10/28/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,0,Female
+GTEX-12WSL-0926-SM-5N9EK,GTEX-12WSL,Blood Vessel,Artery - Coronary,250.0,7.1,BP-44437,LCSET-4905,10/08/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-12ZZX-0626-SM-5EQ46,GTEX-12ZZX,Blood Vessel,Artery - Coronary,638.0,6.2,BP-44901,LCSET-4767,10/22/2013,02/09/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,1,Female
+GTEX-131XF-0526-SM-5HL87,GTEX-131XF,Blood Vessel,Artery - Coronary,180.0,7.4,BP-45247,LCSET-4807,10/29/2013,02/28/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-131XG-0826-SM-5LZVS,GTEX-131XG,Blood Vessel,Artery - Coronary,101.0,6.2,BP-43956,LCSET-4900,09/25/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-132AR-1326-SM-5K7YC,GTEX-132AR,Blood Vessel,Artery - Coronary,103.0,7.1,BP-45499,"LCSET-4819,LCSET-5258",11/05/2013,03/29/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-1399R-1826-SM-5J2M9,GTEX-1399R,Blood Vessel,Artery - Coronary,145.0,6.5,BP-46589,LCSET-4817,12/04/2013,03/22/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,30-39,1,0,Male
+GTEX-1399S-0926-SM-5PNVQ,GTEX-1399S,Blood Vessel,Artery - Coronary,85.0,7.9,BP-47901,LCSET-4917,01/06/2014,03/27/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,30-39,2,0,Female
+GTEX-1399U-0626-SM-5J1NZ,GTEX-1399U,Blood Vessel,Artery - Coronary,159.0,6.6,BP-46589,LCSET-4816,12/04/2013,03/22/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-139YR-0726-SM-62LFN,GTEX-139YR,Blood Vessel,Artery - Coronary,171.0,7.3,BP-49387,LCSET-5306,02/11/2014,06/01/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-13CF3-0626-SM-5J1NO,GTEX-13CF3,Blood Vessel,Artery - Coronary,137.0,6.0,BP-46943,LCSET-4816,12/10/2013,03/22/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-13FH7-0426-SM-5KM4M,GTEX-13FH7,Blood Vessel,Artery - Coronary,121.0,6.8,BP-46925,LCSET-4821,12/10/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-13FHP-1126-SM-5IJDO,GTEX-13FHP,Blood Vessel,Artery - Coronary,883.0,6.0,BP-46734,LCSET-4814,12/06/2013,03/04/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,4,Male
+GTEX-13FTW-0926-SM-5J2NJ,GTEX-13FTW,Blood Vessel,Artery - Coronary,155.0,6.4,BP-46482,LCSET-4817,12/03/2013,03/22/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,1,0,Male
+GTEX-13FXS-1126-SM-5IJBB,GTEX-13FXS,Blood Vessel,Artery - Coronary,672.0,6.3,BP-46734,LCSET-4814,12/06/2013,03/04/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,2,Male
+GTEX-13N11-0626-SM-5J1OL,GTEX-13N11,Blood Vessel,Artery - Coronary,164.0,7.4,BP-46978,LCSET-4816,12/11/2013,03/22/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-13NZA-1126-SM-5MR4K,GTEX-13NZA,Blood Vessel,Artery - Coronary,1369.0,6.1,BP-46529,LCSET-4902,12/04/2013,03/22/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,2,Male
+GTEX-13O21-2926-SM-5J1OU,GTEX-13O21,Blood Vessel,Artery - Coronary,145.0,7.0,BP-46680,LCSET-4816,12/05/2013,03/22/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-13O61-0626-SM-5L3D1,GTEX-13O61,Blood Vessel,Artery - Coronary,144.0,7.0,BP-46999,LCSET-4822,12/11/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-13OVG-0726-SM-5IJBY,GTEX-13OVG,Blood Vessel,Artery - Coronary,458.0,6.0,BP-46999,LCSET-4814,12/11/2013,03/04/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-13OW8-2026-SM-9WYSA,GTEX-13OW8,Blood Vessel,Artery - Coronary,1124.0,5.9,BP-60908,LCSET-7430,02/25/2015,07/22/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,2,Male
+GTEX-13PL7-1826-SM-5IJDV,GTEX-13PL7,Blood Vessel,Artery - Coronary,169.0,8.1,BP-47051,LCSET-4814,12/12/2013,03/04/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-13PVR-1126-SM-5S2NX,GTEX-13PVR,Blood Vessel,Artery - Coronary,131.0,6.7,BP-48564,"LCSET-4981,LCSET-4988",01/22/2014,03/31/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-13QBU-0126-SM-5LU3V,GTEX-13QBU,Blood Vessel,Artery - Coronary,101.0,7.0,BP-47524,LCSET-4824,12/17/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,0,Female
+GTEX-13QJC-0626-SM-5S2O9,GTEX-13QJC,Blood Vessel,Artery - Coronary,1056.0,6.4,BP-48564,"LCSET-4981,LCSET-4988",01/22/2014,03/31/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,2,Female
+GTEX-13S7M-2226-SM-5S2WB,GTEX-13S7M,Blood Vessel,Artery - Coronary,629.0,6.3,BP-48818,LCSET-4996,01/28/2014,04/03/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,2,Female
+GTEX-13S86-0526-SM-5QGPZ,GTEX-13S86,Blood Vessel,Artery - Coronary,158.0,7.3,BP-48448,LCSET-4954,01/17/2014,03/29/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,1,0,Male
+GTEX-13U4I-0926-SM-5LU5A,GTEX-13U4I,Blood Vessel,Artery - Coronary,424.0,7.4,BP-47486,LCSET-4824,12/17/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,0,Female
+GTEX-13VXT-1026-SM-5LU37,GTEX-13VXT,Blood Vessel,Artery - Coronary,498.0,6.5,BP-47524,LCSET-4824,12/17/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,20-29,2,0,Female
+GTEX-13VXU-1926-SM-5LU5J,GTEX-13VXU,Blood Vessel,Artery - Coronary,1018.0,6.1,BP-47141,LCSET-4824,12/13/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,2,Male
+GTEX-13W3W-0626-SM-5LU45,GTEX-13W3W,Blood Vessel,Artery - Coronary,192.0,8.5,BP-47141,LCSET-4824,12/13/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-13X6J-1326-SM-5QGOV,GTEX-13X6J,Blood Vessel,Artery - Coronary,1331.0,6.8,BP-48057,LCSET-4954,01/08/2014,03/29/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,2,Male
+GTEX-146FH-0926-SM-5SI96,GTEX-146FH,Blood Vessel,Artery - Coronary,464.0,7.2,BP-47616,LCSET-5174,12/18/2013,04/04/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-147F4-1326-SM-5LU9V,GTEX-147F4,Blood Vessel,Artery - Coronary,1265.0,6.7,BP-47616,LCSET-4899,12/18/2013,03/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,2,Male
+GTEX-14BMV-0926-SM-7DHKM,GTEX-14BMV,Blood Vessel,Artery - Coronary,613.0,7.1,BP-48119,LCSET-6441,01/09/2014,01/14/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,2,Male
+GTEX-14C38-1226-SM-5S2UK,GTEX-14C38,Blood Vessel,Artery - Coronary,562.0,6.1,BP-48651,LCSET-4996,01/24/2014,04/03/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-14C5O-1426-SM-5RQI8,GTEX-14C5O,Blood Vessel,Artery - Coronary,742.0,6.9,BP-48576,LCSET-4955,01/22/2014,04/01/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,4,Male
+GTEX-14E1K-0926-SM-5S2U4,GTEX-14E1K,Blood Vessel,Artery - Coronary,189.0,6.3,BP-48647,LCSET-4996,01/24/2014,04/03/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-14H4A-0526-SM-62LEU,GTEX-14H4A,Blood Vessel,Artery - Coronary,473.0,7.9,BP-49102,LCSET-5306,02/04/2014,06/01/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,0,Female
+GTEX-14PJ4-1026-SM-6AJ97,GTEX-14PJ4,Blood Vessel,Artery - Coronary,126.0,7.3,BP-49836,LCSET-5450,02/25/2014,06/26/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-14PJ6-1226-SM-6LLHJ,GTEX-14PJ6,Blood Vessel,Artery - Coronary,116.0,7.6,BP-49836,LCSET-5859,02/25/2014,08/02/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-14PJM-1026-SM-6ETZT,GTEX-14PJM,Blood Vessel,Artery - Coronary,567.0,6.5,BP-49721,LCSET-5452,02/21/2014,07/22/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,2,Female
+GTEX-14PN3-0426-SM-6LLIY,GTEX-14PN3,Blood Vessel,Artery - Coronary,90.0,6.9,BP-49672,LCSET-5859,02/20/2014,08/02/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-14XAO-1026-SM-6LLJ7,GTEX-14XAO,Blood Vessel,Artery - Coronary,118.0,8.5,BP-51592,LCSET-5859,04/15/2014,08/02/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-15CHC-0526-SM-6EU23,GTEX-15CHC,Blood Vessel,Artery - Coronary,201.0,6.8,BP-51592,LCSET-5452,04/15/2014,07/22/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-15CHR-0526-SM-79OLJ,GTEX-15CHR,Blood Vessel,Artery - Coronary,192.0,7.1,BP-56446,"LCSET-6380,LCSET-6779",09/09/2014,02/19/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-15DDE-1226-SM-6PAN8,GTEX-15DDE,Blood Vessel,Artery - Coronary,658.0,6.8,BP-54027,"LCSET-5864,LCSET-5875",06/17/2014,08/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,3,Female
+GTEX-15ER7-1426-SM-6PAMA,GTEX-15ER7,Blood Vessel,Artery - Coronary,1387.0,6.4,BP-50666,"LCSET-5864,LCSET-5875",03/19/2014,08/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,20-29,2,1,Female
+GTEX-15RJ7-0526-SM-6PANP,GTEX-15RJ7,Blood Vessel,Artery - Coronary,192.0,7.2,BP-50666,"LCSET-5864,LCSET-5875",03/19/2014,08/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,1,0,Male
+GTEX-15SHU-1026-SM-6PAL7,GTEX-15SHU,Blood Vessel,Artery - Coronary,1142.0,7.0,BP-51043,"LCSET-5864,LCSET-5875",04/01/2014,08/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,2,Female
+GTEX-15SHV-0726-SM-6PAMO,GTEX-15SHV,Blood Vessel,Artery - Coronary,212.0,6.3,BP-51304,"LCSET-5864,LCSET-5875",04/08/2014,08/23/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-16YQH-0826-SM-7938J,GTEX-16YQH,Blood Vessel,Artery - Coronary,943.0,10.0,BP-52710,"LCSET-6376,LCSET-6778",05/14/2014,02/19/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,30-39,1,1,Male
+GTEX-17F9E-1226-SM-7EWDG,GTEX-17F9E,Blood Vessel,Artery - Coronary,298.0,6.3,BP-52186,LCSET-6444,04/29/2014,01/28/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-17F9Y-1426-SM-7IGOO,GTEX-17F9Y,Blood Vessel,Artery - Coronary,546.0,5.9,BP-52710,LCSET-6446,05/14/2014,03/04/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,70-79,2,0,Female
+GTEX-17GQL-0426-SM-7LG5V,GTEX-17GQL,Blood Vessel,Artery - Coronary,469.0,6.2,BP-53102,"LCSET-6682,LCSET-7012",05/22/2014,04/12/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-17HII-1126-SM-7IGOP,GTEX-17HII,Blood Vessel,Artery - Coronary,660.0,5.9,BP-52710,LCSET-6446,05/14/2014,03/04/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,2,Male
+GTEX-18A66-1026-SM-731B8,GTEX-18A66,Blood Vessel,Artery - Coronary,353.0,7.6,BP-53829,"LCSET-6123,LCSET-6511",06/12/2014,12/19/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,4,Male
+GTEX-18A67-1426-SM-718BC,GTEX-18A67,Blood Vessel,Artery - Coronary,364.0,7.5,BP-53793,LCSET-6121,06/11/2014,11/14/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-18A7A-1126-SM-7LT8O,GTEX-18A7A,Blood Vessel,Artery - Coronary,592.0,8.0,BP-53046,LCSET-6683,05/21/2014,03/14/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,2,Female
+GTEX-1A32A-1726-SM-731BW,GTEX-1A32A,Blood Vessel,Artery - Coronary,723.0,6.8,BP-53829,"LCSET-6123,LCSET-6511",06/12/2014,12/19/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,2,Female
+GTEX-1A8G6-1726-SM-73KXZ,GTEX-1A8G6,Blood Vessel,Artery - Coronary,1230.0,6.3,BP-55773,LCSET-6198,08/06/2014,01/14/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,2,Male
+GTEX-1AX9K-0326-SM-7DHM9,GTEX-1AX9K,Blood Vessel,Artery - Coronary,280.0,8.1,BP-55927,LCSET-6441,08/13/2014,01/14/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1AYCT-0626-SM-7EPI5,GTEX-1AYCT,Blood Vessel,Artery - Coronary,457.0,7.0,BP-56446,"LCSET-6443,LCSET-6866",09/09/2014,02/22/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1AYD5-0626-SM-7RHHT,GTEX-1AYD5,Blood Vessel,Artery - Coronary,307.0,7.6,BP-58273,LCSET-6760,11/20/2014,04/19/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1B8KE-0426-SM-7189G,GTEX-1B8KE,Blood Vessel,Artery - Coronary,132.0,7.7,BP-54602,LCSET-6121,07/02/2014,11/14/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1B97J-0826-SM-7SB78,GTEX-1B97J,Blood Vessel,Artery - Coronary,216.0,6.2,BP-57386,LCSET-6763,10/21/2014,04/27/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-1BAJH-1226-SM-7SB7A,GTEX-1BAJH,Blood Vessel,Artery - Coronary,1307.0,6.0,BP-57386,LCSET-6763,10/21/2014,04/27/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,70-79,1,2,Male
+GTEX-1C64O-1126-SM-7IGMY,GTEX-1C64O,Blood Vessel,Artery - Coronary,529.0,6.2,BP-55957,LCSET-6445,08/14/2014,02/26/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-1CAMS-1226-SM-79393,GTEX-1CAMS,Blood Vessel,Artery - Coronary,409.0,8.7,BP-56484,LCSET-6376,09/10/2014,01/14/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,0,Female
+GTEX-1CB4E-0726-SM-7EWEY,GTEX-1CB4E,Blood Vessel,Artery - Coronary,346.0,6.3,BP-55957,LCSET-6444,08/14/2014,01/28/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-1EKGG-1026-SM-7RHG6,GTEX-1EKGG,Blood Vessel,Artery - Coronary,945.0,6.1,BP-57437,LCSET-6760,10/22/2014,04/19/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,2,Male
+GTEX-1F5PK-0426-SM-7RHHZ,GTEX-1F5PK,Blood Vessel,Artery - Coronary,139.0,7.1,BP-58273,LCSET-6760,11/20/2014,04/19/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1F6I4-0626-SM-9MQLL,GTEX-1F6I4,Blood Vessel,Artery - Coronary,828.0,6.7,BP-59384,LCSET-6807,01/07/2015,05/19/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,2,Male
+GTEX-1GL5R-0226-SM-7SB93,GTEX-1GL5R,Blood Vessel,Artery - Coronary,93.0,6.3,BP-58308,LCSET-6763,11/21/2014,04/27/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1GMR3-0626-SM-9WYT3,GTEX-1GMR3,Blood Vessel,Artery - Coronary,258.0,9.0,BP-62478,LCSET-7430,04/10/2015,07/22/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,1,0,Male
+GTEX-1GN1U-1326-SM-9KNTM,GTEX-1GN1U,Blood Vessel,Artery - Coronary,577.0,6.5,BP-59456,LCSET-6806,01/09/2015,05/12/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,4,Female
+GTEX-1H11D-1426-SM-9MQKY,GTEX-1H11D,Blood Vessel,Artery - Coronary,347.0,6.7,BP-59409,LCSET-6807,01/08/2015,05/19/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,1,0,Male
+GTEX-1H1ZS-0926-SM-ADEIT,GTEX-1H1ZS,Blood Vessel,Artery - Coronary,1361.0,6.1,BP-65829,LCSET-7849,07/30/2015,10/20/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,70-79,1,4,Male
+GTEX-1H3NZ-0926-SM-9YFM7,GTEX-1H3NZ,Blood Vessel,Artery - Coronary,578.0,7.9,BP-63487,"LCSET-7536,LCSET-7767",05/13/2015,08/22/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,4,Male
+GTEX-1H3VY-1326-SM-9WPOA,GTEX-1H3VY,Blood Vessel,Artery - Coronary,468.0,6.3,BP-62478,LCSET-7429,04/10/2015,07/20/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1HBPH-0326-SM-CM2S8,GTEX-1HBPH,Blood Vessel,Artery - Coronary,919.0,7.0,BP-70497,LCSET-9115,01/07/2016,07/13/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,4,Female
+GTEX-1HC8U-0526-SM-9WYSQ,GTEX-1HC8U,Blood Vessel,Artery - Coronary,337.0,8.1,BP-63487,LCSET-7430,05/13/2015,07/22/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,0,Female
+GTEX-1HCU7-1526-SM-CM2S6,GTEX-1HCU7,Blood Vessel,Artery - Coronary,459.0,5.9,BP-70497,LCSET-9115,01/07/2016,07/13/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1HCUA-0426-SM-CGQEI,GTEX-1HCUA,Blood Vessel,Artery - Coronary,194.0,7.1,BP-69050,LCSET-9104,11/16/2015,06/20/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-1HCVE-0926-SM-CGQEX,GTEX-1HCVE,Blood Vessel,Artery - Coronary,826.0,6.8,BP-69050,LCSET-9104,11/16/2015,06/20/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,4,Male
+GTEX-1HFI7-0626-SM-ADEI3,GTEX-1HFI7,Blood Vessel,Artery - Coronary,373.0,6.2,BP-65801,LCSET-7849,07/29/2015,10/20/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-1HSGN-1226-SM-CGQFT,GTEX-1HSGN,Blood Vessel,Artery - Coronary,347.0,7.0,BP-69094,LCSET-9104,11/17/2015,06/20/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,0,Female
+GTEX-1HSMQ-0626-SM-CL54A,GTEX-1HSMQ,Blood Vessel,Artery - Coronary,310.0,7.3,BP-70497,LCSET-9114,01/07/2016,07/13/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1I1GQ-1326-SM-CM2TM,GTEX-1I1GQ,Blood Vessel,Artery - Coronary,1112.0,6.6,BP-72061,LCSET-9115,02/23/2016,07/13/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,2,Male
+GTEX-1IDJD-0426-SM-CM2TO,GTEX-1IDJD,Blood Vessel,Artery - Coronary,237.0,7.8,BP-72061,LCSET-9115,02/23/2016,07/13/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,30-39,1,0,Male
+GTEX-1IDJH-1226-SM-E6CJU,GTEX-1IDJH,Blood Vessel,Artery - Coronary,804.0,6.4,BP-80217,LCSET-10507,11/04/2016,03/25/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,70-79,1,1,Male
+GTEX-1IDJU-0826-SM-ARL87,GTEX-1IDJU,Blood Vessel,Artery - Coronary,103.0,8.0,BP-67188,"LCSET-8137,LCSET-8790",09/16/2015,03/22/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-1IKOE-0826-SM-ARZME,GTEX-1IKOE,Blood Vessel,Artery - Coronary,507.0,7.5,BP-67188,LCSET-8136,09/16/2015,01/23/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,30-39,2,0,Female
+GTEX-1IL2U-1126-SM-COH3Q,GTEX-1IL2U,Blood Vessel,Artery - Coronary,558.0,6.3,BP-73690,LCSET-9414,04/12/2016,08/03/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,2,Male
+GTEX-1J8QM-0226-SM-CYPSI,GTEX-1J8QM,Blood Vessel,Artery - Coronary,178.0,8.2,BP-75878,LCSET-9770,06/21/2016,09/23/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-1JK1U-0826-SM-CM2S1,GTEX-1JK1U,Blood Vessel,Artery - Coronary,185.0,5.9,BP-70497,LCSET-9115,01/07/2016,07/13/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-1JN1M-0926-SM-D4P2V,GTEX-1JN1M,Blood Vessel,Artery - Coronary,615.0,6.6,BP-77611,LCSET-9920,08/17/2016,10/26/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-1K9T9-1026-SM-D3L9D,GTEX-1K9T9,Blood Vessel,Artery - Coronary,491.0,7.5,BP-77611,LCSET-9919,08/17/2016,10/23/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-1KXAM-1526-SM-D4P3Y,GTEX-1KXAM,Blood Vessel,Artery - Coronary,157.0,6.4,BP-77664,LCSET-9920,08/18/2016,10/26/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-1LGOU-0426-SM-D3L8O,GTEX-1LGOU,Blood Vessel,Artery - Coronary,143.0,8.4,BP-77611,LCSET-9919,08/17/2016,10/23/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,20-29,2,0,Female
+GTEX-1LGRB-0826-SM-COH3J,GTEX-1LGRB,Blood Vessel,Artery - Coronary,185.0,8.5,BP-73690,LCSET-9414,04/12/2016,08/03/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-1LVAN-1826-SM-CNPOP,GTEX-1LVAN,Blood Vessel,Artery - Coronary,480.0,7.7,BP-73217,LCSET-9412,03/30/2016,07/31/2016,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-1OFPY-1126-SM-E8VNV,GTEX-1OFPY,Blood Vessel,Artery - Coronary,158.0,7.3,BP-79363,LCSET-10735,10/12/2016,03/31/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-1OKEX-0626-SM-E76PZ,GTEX-1OKEX,Blood Vessel,Artery - Coronary,260.0,7.6,BP-79363,LCSET-10515,10/12/2016,03/31/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-1QAET-0826-SM-E76QR,GTEX-1QAET,Blood Vessel,Artery - Coronary,368.0,6.4,BP-79633,LCSET-10515,10/19/2016,03/31/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1QCLZ-0826-SM-EWRNA,GTEX-1QCLZ,Blood Vessel,Artery - Coronary,276.0,7.2,BP-80588,LCSET-10520,11/15/2016,05/27/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-1QP29-1326-SM-E6CQ2,GTEX-1QP29,Blood Vessel,Artery - Coronary,607.0,7.3,BP-79633,LCSET-10514,10/19/2016,03/25/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1QP2A-0926-SM-E76QU,GTEX-1QP2A,Blood Vessel,Artery - Coronary,442.0,7.0,BP-79633,LCSET-10515,10/19/2016,03/31/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-1QPFJ-0826-SM-EYYXL,GTEX-1QPFJ,Blood Vessel,Artery - Coronary,375.0,6.6,BP-81757,LCSET-10978,12/21/2016,05/28/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,30-39,2,0,Female
+GTEX-1R46S-1026-SM-E8VN3,GTEX-1R46S,Blood Vessel,Artery - Coronary,878.0,6.6,BP-79633,LCSET-10735,10/19/2016,03/31/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,4,Female
+GTEX-1R9K4-1126-SM-E9J4G,GTEX-1R9K4,Blood Vessel,Artery - Coronary,1066.0,6.7,BP-80997,LCSET-10739,11/29/2016,03/30/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-NPJ7-1326-SM-3MJHO,GTEX-NPJ7,Blood Vessel,Artery - Coronary,656.0,6.7,BP-17313,LCSET-2269,06/27/2011,11/19/2012,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,60-69,2,4,Female
+GTEX-NPJ8-1326-SM-3LK6B,GTEX-NPJ8,Blood Vessel,Artery - Coronary,365.0,7.1,BP-17315,LCSET-2234,06/27/2011,12/16/2012,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,40-49,1,4,Male
+GTEX-O5YV-0426-SM-3LK66,GTEX-O5YV,Blood Vessel,Artery - Coronary,252.0,7.7,BP-17536,LCSET-2234,07/12/2011,12/16/2012,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,60-69,2,3,Female
+GTEX-O5YW-3026-SM-3MJHI,GTEX-O5YW,Blood Vessel,Artery - Coronary,148.0,7.9,BP-17669,LCSET-2269,07/18/2011,11/19/2012,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-OHPL-3026-SM-3MJGS,GTEX-OHPL,Blood Vessel,Artery - Coronary,89.0,7.0,BP-17823,LCSET-2269,07/21/2011,11/19/2012,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,60-69,2,0,Female
+GTEX-OIZF-3026-SM-7PC3D,GTEX-OIZF,Blood Vessel,Artery - Coronary,118.0,7.6,BP-58200,LCSET-6762,11/18/2014,04/10/2015,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-OIZH-3026-SM-3NB1G,GTEX-OIZH,Blood Vessel,Artery - Coronary,123.0,8.9,BP-18148,LCSET-2318,08/10/2011,12/16/2012,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-OOBJ-3026-SM-3NB1D,GTEX-OOBJ,Blood Vessel,Artery - Coronary,117.0,7.3,BP-18254,LCSET-2318,08/16/2011,12/16/2012,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,60-69,1,0,Male
+GTEX-P4PP-3026-SM-3P61O,GTEX-P4PP,Blood Vessel,Artery - Coronary,91.0,7.5,BP-18663,LCSET-2386,09/06/2011,12/16/2012,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,30-39,2,0,Female
+GTEX-PSDG-0826-SM-48TCZ,GTEX-PSDG,Blood Vessel,Artery - Coronary,493.0,7.0,BP-19411,LCSET-3085,10/17/2011,04/12/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-PWCY-0426-SM-48TCW,GTEX-PWCY,Blood Vessel,Artery - Coronary,198.0,8.4,BP-19460,LCSET-3085,10/19/2011,04/12/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,20-29,2,0,Female
+GTEX-PX3G-3026-SM-48TZR,GTEX-PX3G,Blood Vessel,Artery - Coronary,116.0,6.6,BP-19883,LCSET-3084,11/03/2011,04/18/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,20-29,2,0,Female
+GTEX-Q2AH-0626-SM-48TZJ,GTEX-Q2AH,Blood Vessel,Artery - Coronary,115.0,7.6,BP-19999,LCSET-3084,11/09/2011,04/18/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,40-49,1,0,Male
+GTEX-QDVN-0126-SM-4GIC9,GTEX-QDVN,Blood Vessel,Artery - Coronary,111.0,8.0,BP-20293,LCSET-3479,11/22/2011,07/19/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-QEG5-1026-SM-DKPOO,GTEX-QEG5,Blood Vessel,Artery - Coronary,687.0,7.8,BP-20332,LCSET-10313,11/28/2011,01/17/2017,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,20-29,1,0,Male
+GTEX-QEL4-1026-SM-4R1JK,GTEX-QEL4,Blood Vessel,Artery - Coronary,535.0,8.1,BP-20412,LCSET-3812,11/30/2011,09/05/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,3,Male
+GTEX-QESD-0326-SM-47J4F,GTEX-QESD,Blood Vessel,Artery - Coronary,229.0,7.9,BP-36881,LCSET-2933,03/12/2013,04/16/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,20-29,1,0,Male
+GTEX-QLQ7-0326-SM-DHXIO,GTEX-QLQ7,Blood Vessel,Artery - Coronary,85.0,7.5,BP-20570,LCSET-10303,12/06/2011,01/14/2017,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,60-69,1,0,Male
+GTEX-QMRM-0426-SM-4R1K2,GTEX-QMRM,Blood Vessel,Artery - Coronary,100.0,8.1,BP-20785,LCSET-3812,12/13/2011,09/05/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-QV44-0726-SM-DKPON,GTEX-QV44,Blood Vessel,Artery - Coronary,110.0,7.9,BP-20868,LCSET-10313,12/15/2011,01/17/2017,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-R53T-0726-SM-48FCS,GTEX-R53T,Blood Vessel,Artery - Coronary,93.0,6.6,BP-21397,LCSET-3057,01/12/2012,04/18/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,2,0,Female
+GTEX-R55G-0426-SM-48FDH,GTEX-R55G,Blood Vessel,Artery - Coronary,83.0,8.8,BP-21546,LCSET-3181,01/18/2012,07/18/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,40-49,2,0,Female
+GTEX-RN64-0726-SM-48FCV,GTEX-RN64,Blood Vessel,Artery - Coronary,762.0,6.0,BP-21577,LCSET-3057,01/19/2012,04/18/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,1,Male
+GTEX-RTLS-0726-SM-46MV4,GTEX-RTLS,Blood Vessel,Artery - Coronary,656.0,7.0,BP-21669,LCSET-2933,01/23/2012,04/16/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,60-69,2,4,Female
+GTEX-RU72-0226-SM-46MUD,GTEX-RU72,Blood Vessel,Artery - Coronary,437.0,6.0,BP-21930,LCSET-2933,01/30/2012,04/16/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,2,2,Female
+GTEX-RUSQ-0426-SM-47JWR,GTEX-RUSQ,Blood Vessel,Artery - Coronary,194.0,7.4,BP-21930,LCSET-2974,01/30/2012,04/11/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-RWS6-0426-SM-47JXH,GTEX-RWS6,Blood Vessel,Artery - Coronary,150.0,6.3,BP-22343,LCSET-2974,02/10/2012,04/11/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,60-69,2,0,Female
+GTEX-S32W-0526-SM-4AD6F,GTEX-S32W,Blood Vessel,Artery - Coronary,257.0,8.1,BP-22609,LCSET-3098,02/23/2012,05/14/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,2,0,Female
+GTEX-S3XE-0226-SM-4AD6I,GTEX-S3XE,Blood Vessel,Artery - Coronary,83.0,8.1,BP-22845,LCSET-3098,03/02/2012,05/14/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-S4Z8-0926-SM-4AD6Q,GTEX-S4Z8,Blood Vessel,Artery - Coronary,148.0,7.9,BP-23119,LCSET-3098,03/14/2012,05/14/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,60-69,1,0,Male
+GTEX-SE5C-0426-SM-4BRUI,GTEX-SE5C,Blood Vessel,Artery - Coronary,163.0,7.7,BP-23387,LCSET-3152,03/26/2012,05/27/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,40-49,2,0,Female
+GTEX-SNMC-0226-SM-4DM6F,GTEX-SNMC,Blood Vessel,Artery - Coronary,187.0,8.5,BP-23791,LCSET-3205,04/04/2012,05/31/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,20-29,1,0,Male
+GTEX-U3ZH-0426-SM-4DXSE,GTEX-U3ZH,Blood Vessel,Artery - Coronary,191.0,8.8,BP-25328,LCSET-3206,05/14/2012,06/04/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,30-39,1,0,Male
+GTEX-U3ZN-0426-SM-4DXSH,GTEX-U3ZN,Blood Vessel,Artery - Coronary,117.0,8.0,BP-25490,LCSET-3206,05/18/2012,06/04/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,30-39,2,0,Female
+GTEX-U4B1-0226-SM-4DXU8,GTEX-U4B1,Blood Vessel,Artery - Coronary,114.0,8.3,BP-25599,LCSET-3206,05/23/2012,06/04/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,40-49,1,0,Male
+GTEX-U8XE-1026-SM-4E3HM,GTEX-U8XE,Blood Vessel,Artery - Coronary,404.0,8.4,BP-25734,"LCSET-3209,LCSET-3416",05/29/2012,07/12/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,30-39,1,4,Male
+GTEX-UJHI-0326-SM-4IHJE,GTEX-UJHI,Blood Vessel,Artery - Coronary,158.0,6.4,BP-25734,LCSET-3596,05/29/2012,07/23/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,2,0,Female
+GTEX-UJMC-0426-SM-4IHJF,GTEX-UJMC,Blood Vessel,Artery - Coronary,149.0,7.2,BP-26092,LCSET-3596,06/08/2012,07/23/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-UPK5-0126-SM-3GADM,GTEX-UPK5,Blood Vessel,Artery - Coronary,971.0,6.6,BP-26449,LCSET-2014,06/20/2012,09/08/2012,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,40-49,1,0,Male
+GTEX-VUSG-0626-SM-4KL1Z,GTEX-VUSG,Blood Vessel,Artery - Coronary,161.0,6.9,BP-26940,LCSET-3626,07/03/2012,08/10/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-WEY5-0326-SM-4LMI7,GTEX-WEY5,Blood Vessel,Artery - Coronary,204.0,7.3,BP-27183,LCSET-3631,07/10/2012,08/07/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,40-49,2,0,Female
+GTEX-WFG7-0626-SM-4LMK6,GTEX-WFG7,Blood Vessel,Artery - Coronary,122.0,7.1,BP-27213,LCSET-3631,07/11/2012,08/07/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,20-29,1,0,Male
+GTEX-WHPG-0726-SM-4M1XX,GTEX-WHPG,Blood Vessel,Artery - Coronary,251.0,8.4,BP-27869,LCSET-3633,07/24/2012,08/24/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-WHWD-0226-SM-4OORT,GTEX-WHWD,Blood Vessel,Artery - Coronary,228.0,6.9,BP-27512,"LCSET-3773,LCSET-4048",07/17/2012,09/15/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-WRHU-1126-SM-4E3I1,GTEX-WRHU,Blood Vessel,Artery - Coronary,524.0,6.7,BP-36182,"LCSET-3209,LCSET-3416",02/15/2013,07/12/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,2,1,Female
+GTEX-WY7C-1526-SM-4OND2,GTEX-WY7C,Blood Vessel,Artery - Coronary,199.0,8.7,BP-29435,LCSET-3653,08/14/2012,08/14/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-WYJK-0926-SM-4ONCF,GTEX-WYJK,Blood Vessel,Artery - Coronary,772.0,6.5,BP-29473,LCSET-3653,08/15/2012,08/14/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-X5EB-0326-SM-4QASF,GTEX-X5EB,Blood Vessel,Artery - Coronary,193.0,6.4,BP-31052,LCSET-3737,09/12/2012,08/30/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,40-49,1,0,Male
+GTEX-XGQ4-0626-SM-4AT56,GTEX-XGQ4,Blood Vessel,Artery - Coronary,148.0,6.5,BP-32413,LCSET-3137,10/22/2012,05/15/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-XPT6-0426-SM-4B672,GTEX-XPT6,Blood Vessel,Artery - Coronary,194.0,7.9,BP-33639,LCSET-3141,11/27/2012,05/13/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,20-29,1,0,Male
+GTEX-XPVG-0926-SM-4B651,GTEX-XPVG,Blood Vessel,Artery - Coronary,111.0,8.0,BP-33866,LCSET-3141,12/04/2012,05/13/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-XQ8I-0326-SM-4BOPN,GTEX-XQ8I,Blood Vessel,Artery - Coronary,377.0,7.1,BP-33923,"LCSET-3145,LCSET-3730",12/05/2012,08/01/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,1,0,Male
+GTEX-XV7Q-0626-SM-4BRV5,GTEX-XV7Q,Blood Vessel,Artery - Coronary,70.0,8.4,BP-34543,LCSET-3152,12/19/2012,05/27/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,40-49,2,0,Female
+GTEX-Y114-0326-SM-4TT99,GTEX-Y114,Blood Vessel,Artery - Coronary,95.0,6.6,BP-34830,LCSET-4016,01/04/2013,09/28/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,2,0,Female
+GTEX-Y3IK-0926-SM-51MQU,GTEX-Y3IK,Blood Vessel,Artery - Coronary,92.0,8.7,BP-35709,LCSET-4207,02/04/2013,11/20/2013,RNA isolation_PAXgene Tissue miRNA,TruSeq.v1,50-59,2,0,Female
+GTEX-Y5V6-0326-SM-4VBRW,GTEX-Y5V6,Blood Vessel,Artery - Coronary,114.0,7.4,BP-41604,LCSET-4038,07/31/2013,10/09/2013,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,1,0,Male
+GTEX-Y8E4-0226-SM-4VBQ3,GTEX-Y8E4,Blood Vessel,Artery - Coronary,365.0,6.8,BP-42087,LCSET-4038,08/08/2013,10/09/2013,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,1,0,Male
+GTEX-YEC3-0326-SM-5IFJJ,GTEX-YEC3,Blood Vessel,Artery - Coronary,237.0,6.6,BP-45268,LCSET-4830,10/29/2013,03/20/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-YEC4-0426-SM-4W1ZH,GTEX-YEC4,Blood Vessel,Artery - Coronary,180.0,8.6,BP-42087,LCSET-4049,08/08/2013,10/20/2013,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,1,0,Male
+GTEX-YF7O-0226-SM-5IFJ4,GTEX-YF7O,Blood Vessel,Artery - Coronary,91.0,6.6,BP-45247,LCSET-4830,10/29/2013,03/20/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-YFC4-0726-SM-62LF6,GTEX-YFC4,Blood Vessel,Artery - Coronary,749.0,6.5,BP-49387,LCSET-5306,02/11/2014,06/01/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,1,Female
+GTEX-ZAB4-0726-SM-5HL8I,GTEX-ZAB4,Blood Vessel,Artery - Coronary,501.0,7.2,BP-45247,LCSET-4807,10/29/2013,02/28/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,1,4,Male
+GTEX-ZAB5-2726-SM-5J2NH,GTEX-ZAB5,Blood Vessel,Artery - Coronary,278.0,7.5,BP-45485,LCSET-4817,11/05/2013,03/22/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-ZDYS-0126-SM-5HL6X,GTEX-ZDYS,Blood Vessel,Artery - Coronary,145.0,8.0,BP-45395,LCSET-4806,11/01/2013,03/02/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-ZF29-0126-SM-4WKGZ,GTEX-ZF29,Blood Vessel,Artery - Coronary,93.0,6.1,BP-42588,LCSET-4170,08/22/2013,10/28/2013,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-ZF3C-1326-SM-5A5MF,GTEX-ZF3C,Blood Vessel,Artery - Coronary,566.0,9.4,BP-43141,LCSET-4423,09/05/2013,01/29/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-ZG7Y-2326-SM-DO92L,GTEX-ZG7Y,Blood Vessel,Artery - Coronary,262.0,6.2,BP-43072,LCSET-10341,09/04/2013,02/22/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-ZGAY-0426-SM-4WWAM,GTEX-ZGAY,Blood Vessel,Artery - Coronary,154.0,6.0,BP-42743,LCSET-4179,08/27/2013,11/08/2013,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,0,Female
+GTEX-ZLFU-0126-SM-5EQMN,GTEX-ZLFU,Blood Vessel,Artery - Coronary,90.0,6.5,BP-43141,LCSET-4790,09/05/2013,02/19/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,1,0,Male
+GTEX-ZPCL-0326-SM-5FQSG,GTEX-ZPCL,Blood Vessel,Artery - Coronary,78.0,7.3,BP-43141,LCSET-4793,09/05/2013,02/19/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-ZPIC-0326-SM-DO91U,GTEX-ZPIC,Blood Vessel,Artery - Coronary,128.0,6.2,BP-43072,LCSET-10341,09/04/2013,02/22/2017,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,2,0,Female
+GTEX-ZPU1-0526-SM-4YCDA,GTEX-ZPU1,Blood Vessel,Artery - Coronary,94.0,9.0,BP-43141,LCSET-4197,09/05/2013,11/20/2013,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,40-49,1,0,Male
+GTEX-ZQG8-0626-SM-57WF3,GTEX-ZQG8,Blood Vessel,Artery - Coronary,148.0,6.8,BP-43231,LCSET-4416,09/06/2013,12/21/2013,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-ZT9W-0426-SM-57WF4,GTEX-ZT9W,Blood Vessel,Artery - Coronary,90.0,8.1,BP-43231,LCSET-4416,09/06/2013,12/21/2013,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-ZV7C-0426-SM-51MQY,GTEX-ZV7C,Blood Vessel,Artery - Coronary,104.0,8.2,BP-43375,LCSET-4207,09/10/2013,11/20/2013,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,0,Male
+GTEX-ZVT2-0526-SM-5E455,GTEX-ZVT2,Blood Vessel,Artery - Coronary,92.0,8.3,BP-43495,LCSET-4635,09/12/2013,02/13/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,2,0,Female
+GTEX-ZYFC-1226-SM-5GIE4,GTEX-ZYFC,Blood Vessel,Artery - Coronary,1410.0,6.1,BP-44172,LCSET-4796,10/01/2013,02/27/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,50-59,1,2,Male
+GTEX-ZYFG-0126-SM-5GIDH,GTEX-ZYFG,Blood Vessel,Artery - Coronary,48.0,7.3,BP-44172,"LCSET-4796,LCSET-5161",10/01/2013,03/17/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,60-69,2,0,Female
+GTEX-ZYT6-0826-SM-5E43I,GTEX-ZYT6,Blood Vessel,Artery - Coronary,1430.0,6.6,BP-43529,LCSET-4635,09/13/2013,02/13/2014,RNA Extraction from Paxgene-derived Lysate Plate Based,TruSeq.v1,30-39,1,1,Male

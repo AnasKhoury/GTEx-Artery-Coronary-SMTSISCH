@@ -1,0 +1,3 @@
+batch_col,n_samples_total,n_samples_nonmissing,n_batches,min_batch_size,median_batch_size,max_batch_size,n_batches_lt5,n_batches_lt10
+SMGEBTCH,209,209,116,1,2.0,5,113,116
+SMNABTCH,209,209,156,1,1.0,4,156,156

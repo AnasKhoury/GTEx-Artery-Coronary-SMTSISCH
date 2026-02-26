@@ -1,0 +1,7 @@
+DEGs (limma) summary
+Samples: 106  (LOW=53, HIGH=53)
+Genes tested: 17309
+Model: ~ Group + AGE + SEX + DeathType + SMRIN  (batch handled via ComBat only)
+Contrast tested: HIGH vs LOW (coef=GroupHIGH)
+Significant DEGs: FDR<0.05 => 636
+Significant DEGs: FDR<0.10 => 1034

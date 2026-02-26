@@ -1,0 +1,8 @@
+ComBat (sva::ComBat) batch correction report
+Batch column: SMGEBTCH
+Samples used: 209
+Genes used: 17309
+
+Batch size summary:
+Number of cases in table: 209 
+Number of factors: 1 
