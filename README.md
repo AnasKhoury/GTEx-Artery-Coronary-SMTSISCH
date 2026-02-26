@@ -113,17 +113,17 @@ python Code\02_choose_batch_column.py
 python Code\03_define_smtsisch_groups.py
 python Code\04B_pca_before_after.py
 
-2) R steps (ComBat + limma + GSEA)
+###2) R steps (ComBat + limma + GSEA)
 Rscript Code\04A_combat_sva.R
 Rscript Code\05_limma_degs.R
 Rscript Code\06_gsea_preranked_fgsea.R
 
-Requirements (minimal)
+### Requirements (minimal)
 
 Python: pandas, numpy, matplotlib, scikit-learn
 R: sva, limma, fgsea, data.table (or tidyverse)
 
-Outputs for Grading (quick list)
+### Outputs for Grading (quick list)
 
 Batch correction: Pca/pca_before_by_batch.png, Pca/pca_after_by_batch.png
 
@@ -131,4 +131,4 @@ DE: DifferentialExpression/volcano.png, DifferentialExpression/top20_genes_bar.p
 
 GSEA: GSEA/gsea_hallmark_dotplot.png, plus example enrichment plots in GSEA/
 
-Full tables are included as CSV files in their respective folders.
+### Full tables are included as CSV files in their respective folders.
